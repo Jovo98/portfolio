@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Roboto", sans-serif;
+}
+
+header {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+.header {
+    margin-bottom: 2rem;
+    display:flex;
+    flex-direction: row;
+}
+.headerNav {
+    margin: 1rem;
+    font-size: 1rem;
+    font-family: "Roboto", sans-serif;
+}
+h1 {
+
+}
+.projects {
+    justify-content: space-evenly;
+    display: flex;
+    flex-direction: row;
+}
+
+.projects div {
+    margin-top: 4rem;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
