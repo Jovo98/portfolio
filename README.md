@@ -26,6 +26,4 @@ This is where you can leave your social links for people to contact you, such as
 
 
 
-## Acknowledgments
-
 
